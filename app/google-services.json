@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709004989630",
+    "firebase_url": "https://scantextfromcamera.firebaseio.com",
+    "project_id": "scantextfromcamera",
+    "storage_bucket": "scantextfromcamera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709004989630:android:795b42d81919048931faef",
+        "android_client_info": {
+          "package_name": "com.example.scantextfromcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709004989630-julgccvbil4d6pmmhbsq41kmc47qo9kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7deEurGKeraDqWwLkBccYpifrvjf2XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709004989630-julgccvbil4d6pmmhbsq41kmc47qo9kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
